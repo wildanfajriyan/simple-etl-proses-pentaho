@@ -1,5 +1,7 @@
 # **simple etl playstore dataset**
 
+CSV from [Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv)
+
 ## etl proses
 
 ![](screenshot/etl-proses.png)
